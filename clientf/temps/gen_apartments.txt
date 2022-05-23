@@ -1,0 +1,103 @@
+####
+APARTMENTS REPORT
+####
+
+--- [high7] ---
+* ID: 638729
+* Number of rooms: 1
+* Number of guests: 2
+* Area: (3, 1)
+* Description: description
+* Rating: 0
+* Owner's ID: 32432
+== STATS ==
+* Life time reservations: 0
+* Life time guests:0
+* Past reservations to reviews ratio:[0.0]
+* Total money made:0 ILS 
+--- [high7] ---
+
+
+--- [high6] ---
+* ID: 131878
+* Number of rooms: 1
+* Number of guests: 2
+* Area: (3, 1)
+* Description: description
+* Rating: 0
+* Owner's ID: 32432
+== STATS ==
+* Life time reservations: 0
+* Life time guests:0
+* Past reservations to reviews ratio:[0.0]
+* Total money made:0 ILS 
+--- [high6] ---
+
+
+--- [high5] ---
+* ID: 508692
+* Number of rooms: 1
+* Number of guests: 2
+* Area: (3, 1)
+* Description: description
+* Rating: 0
+* Owner's ID: 32432
+== STATS ==
+* Life time reservations: 1
+* Life time guests:1
+* Past reservations to reviews ratio:[1.0]
+* Total money made:534 ILS 
+--- [high5] ---
+
+
+--- [high4] ---
+* ID: 817635
+* Number of rooms: 1
+* Number of guests: 2
+* Area: (3, 1)
+* Description: description
+* Rating: 0
+* Owner's ID: 32432
+== STATS ==
+* Life time reservations: 0
+* Life time guests:0
+* Past reservations to reviews ratio:[0.0]
+* Total money made:0 ILS 
+--- [high4] ---
+
+
+--- [high1] ---
+* ID: 237852
+* Number of rooms: 1
+* Number of guests: 2
+* Area: (390, 200)
+* Description: awjfvbawf
+* Rating: 0
+* Owner's ID: 32432
+== STATS ==
+* Life time reservations: 0
+* Life time guests:0
+* Past reservations to reviews ratio:[0.0]
+* Total money made:0 ILS 
+--- [high1] ---
+
+
+--- [high1] ---
+* ID: 156852
+* Number of rooms: 1
+* Number of guests: 2
+* Area: (390, 200)
+* Description: awjfvbawf
+* Rating: 0
+* Owner's ID: 32432
+== STATS ==
+* Life time reservations: 0
+* Life time guests:0
+* Past reservations to reviews ratio:[0.0]
+* Total money made:0 ILS 
+--- [high1] ---
+
+####
+APARTMENTS REPORT END
+####
+Available on: D:\Doron\עבודות יא\סייבר\FinalProject\TempHouse\clientf\temps\gen_apartments.txt

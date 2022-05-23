@@ -1,0 +1,5 @@
+Ein Gedi=(604,100)
+Ben Gurion air port=(178,587)
+Beach of Ashdod=(98,243)
+The Kotel=(597,327)
+The Kneset=(411,363)
